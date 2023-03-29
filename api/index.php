@@ -1,6 +1,8 @@
 <?php
 require '../vendor/autoload.php';
 
+// in this week we have moved our index.php in the api folder
+// it contains work done in previous labs regarding the POST /register and /login requests + this week's workload
 use OpenApi\Annotations as OA;
 
 /**
